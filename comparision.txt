@@ -1,0 +1,1 @@
+Best First Search uses only the heuristic, so it is faster but may not always give the shortest path. A* uses both the path cost and heuristic, making it slightly slower but it always finds the shortest path if one exists.
